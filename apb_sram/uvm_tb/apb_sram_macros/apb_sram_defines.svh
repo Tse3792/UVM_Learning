@@ -1,0 +1,11 @@
+`ifndef APB_SRAM_DEFINES
+`define APB_SRAM_DEFINES
+
+
+
+`define DATAWIDTH 32
+`define RAM_DEPTH 128
+
+
+
+`endif APB_SRAM_DEFINES
